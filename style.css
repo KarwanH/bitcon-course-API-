@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+canvas{
+    max-width: 80vw;
+    text-align: center;
+    max-height: 400px;
+}
+
+body{
+    padding: 12px;
+}
